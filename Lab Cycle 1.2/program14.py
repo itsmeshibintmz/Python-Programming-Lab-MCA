@@ -26,3 +26,11 @@ for i in range(number,0,-1): # loop for rows
         print('* ', end="") # printing the pattern with spaces
     print('') # printing the pattern with new line
 	
+""""
+Algorithm
+---------
+Step 1: Take the number of rows as input from the user.
+Step 2: print * in each row incremented by 1 till the limit in nested loop.
+Step 3: print * in each row decremented by 1 till the limit in nested loop.
+Step 4: End
+"""
