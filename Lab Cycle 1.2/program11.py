@@ -16,3 +16,14 @@ average = sum / number
 
 # printing the result
 print("Average of ", number, "numbers is: ", average)
+
+""""
+Algorithm
+---------
+Step 1: Get the number from the user
+Step 2: Initialize the sum as 0
+Step 3: Loop from 1 to number and add the each number to the sum
+Step 4: Calculate the average by sum/number
+Step 5: Print the result
+Step 6: End
+"""
