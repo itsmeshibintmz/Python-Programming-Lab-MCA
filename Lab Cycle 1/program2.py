@@ -1,10 +1,12 @@
-# Program to demonstrate different number
-# data types in python
+""" Program to demonstrate different number
+    data types in python """
 
 # Integer value
 integerValue=3
 print("Integer value is",integerValue)
+# Printing the type of integer value
 print("Type of integer value is",type(integerValue))
+# Printing 
 print("ID of integer value is",id(integerValue))
 # Floating point value
 floatValue=3.14
