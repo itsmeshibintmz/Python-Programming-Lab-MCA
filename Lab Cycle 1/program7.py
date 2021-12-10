@@ -11,3 +11,14 @@ for year in range(startYear,endYear+1):
     if year%4==0 and year%100!=0 or year%400==0:
         # if yes, print the year
         print(year)
+
+""""
+Algorithm
+---------
+Step 1: Get the starting and ending years from the user
+Step 2: Loop through the years and check if they are leap years
+            if year%4==0 and year%100!=0 or year%400==0:
+                goto Step 3
+Step 3: Print the year
+Step 4: End
+"""
