@@ -1,8 +1,13 @@
-# Getting input from user
+# Program to count the occurrences of each word 
+# in a line of text. use split() function and dictionary
+
+# Getting the text from the user
 text=input("Enter a text: ")
+
 print("The text is: ",text)
 print("Word count is: ")
-# Function to count the number of words in the text
+
+# Function to count the occurrences of each word in the text
 def word_count(str):
     # Splitting the text into words
     counts = dict()
