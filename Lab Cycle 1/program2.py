@@ -24,3 +24,21 @@ print("Complex value is",complexValue)
 print("Type of complex value is",type(complexValue))
 # Printing the id of complex value
 print("ID of complex value is",id(complexValue))
+
+"""
+Algorithm
+---------
+Step 1: Assign integer value to integerValue
+Step 2: Print the integer value
+Step 3: Print the type of integer value
+Step 4: Print the id of integer value
+Step 5: Assign float value to floatValue
+Step 6: Print the float value
+Step 7: Print the type of float value
+Step 8: Print the id of float value
+Step 9: Assign complex value to complexValue
+Step 10: Print the complex value
+Step 11: Print the type of complex value
+Step 12: Print the id of complex value
+Step 13: End
+"""
