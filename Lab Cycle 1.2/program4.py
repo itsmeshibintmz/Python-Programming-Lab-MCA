@@ -1,3 +1,5 @@
+# Program to generate Fibonacci series of N terms
+
 # Getting the limit upto which fibonocci numbers 
 # need to print
 limit = int(input("Enter limit:\n"))
