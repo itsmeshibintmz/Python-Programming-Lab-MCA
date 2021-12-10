@@ -28,5 +28,6 @@ Step 3: If the numbers are not equal
             Repeat step 5 until the numbers are equal
 Step 4: Subtract the smaller number from the larger number
 Step 5: Subtract the larger number from the smaller number
-Step 6: Print the GCD result          
+Step 6: Print the GCD result       
+Step 7: End   
 """
