@@ -16,7 +16,7 @@ for year in range(startYear,endYear+1):
 Algorithm
 ---------
 Step 1: Get the starting and ending years from the user
-Step 2: Loop through the years and check if they are leap years
+Step 2: Loop through the years and check if they are leap years until the end year
             if year%4==0 and year%100!=0 or year%400==0:
                 goto Step 3
 Step 3: Print the year
