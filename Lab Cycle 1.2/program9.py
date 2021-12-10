@@ -19,3 +19,19 @@ while(temp>0):
 
 # Printing the reverse of the number
 print("Reverse of the number",num,"is:",reverse)
+
+""""
+Algorithm
+---------
+Step 1: Get the number from the user
+Step 2: Initialize the variables 
+        temp=number
+        reverse=0
+Step 3: Check if the number is negative
+        while(temp>0):
+            remainder=temp%10
+            reverse=(reverse*10)+remainder
+            temp=temp//10
+Step 4: Print the reverse of the number
+Step 5: End
+"""
