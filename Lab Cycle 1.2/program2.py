@@ -10,3 +10,15 @@ if character=='a' or character=='e' or character=='i' or character=='o' or chara
     print("The entered character is a Vowel")
 else:
     print("The entered character is not a vowel")
+
+""""
+Algorithm
+---------
+Step 1: Get the input from the user
+Step 2: Check if the character entered is a vowel or not
+        if character = a,e,i,o,u,A,E,I,O,U
+            print "The entered character is a vowel"
+        else
+            print "The entered character is not a vowel"
+Step 3: End
+"""
