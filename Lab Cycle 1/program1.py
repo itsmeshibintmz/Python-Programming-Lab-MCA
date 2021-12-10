@@ -5,4 +5,4 @@
 firstName=input("Enter your First Name\n")
 lastName=input("Enter your Last Name\n")
 # Display greetings message
-print("Greetings !!!",firstName,secondName)
+print("Greetings !!!",firstName,lastName)
