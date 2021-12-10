@@ -4,7 +4,7 @@
 # need to print
 limit = int(input("Enter limit:\n"))
 
-# Initializing the first two fibonacci numbers
+# Initializing the first three fibonacci numbers
 first = 0
 second = 1
 third = 1
@@ -20,3 +20,16 @@ for i in range(0,limit):
     third=first+second
     first=second
     second=third
+
+""""
+Algorithm
+---------
+Step 1: Get the limit of the fibonacci series
+Step 2: Initialize the first three fibonacci numbers
+Step 3: Print the first two fibonacci numbers
+Step 4: Loop till the limit and print the fibonacci numbers
+        third=first+second
+        first=second
+        second=third
+Step 5: End
+"""
