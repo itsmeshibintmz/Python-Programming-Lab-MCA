@@ -1,5 +1,5 @@
-# Program that prompts user to enter name display 
-# greetings message
+""" Program that prompts user to enter name display 
+    greetings message """
 
 # Prompt user to enter name
 firstName=input("Enter your First Name\n")
