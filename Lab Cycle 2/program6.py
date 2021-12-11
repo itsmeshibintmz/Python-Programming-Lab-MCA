@@ -24,3 +24,7 @@ print("Enter a list of numbers to generate square list: ")
 list = [int(i) for i in input().split()]
 print("Square list: ", square_list(list))
 
+print("Enter a word to generate vowel list: ")
+word = input()
+print("Vowel list: ", vowel_list(word))
+
