@@ -19,3 +19,8 @@ def ordinal_list(word):
 print("Enter a list of numbers to generate positive list: ")
 list = [int(i) for i in input().split()]
 print("Positive list: ", positive_list(list))
+
+print("Enter a list of numbers to generate square list: ")
+list = [int(i) for i in input().split()]
+print("Square list: ", square_list(list))
+
