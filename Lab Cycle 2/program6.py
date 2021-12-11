@@ -28,3 +28,6 @@ print("Enter a word to generate vowel list: ")
 word = input()
 print("Vowel list: ", vowel_list(word))
 
+print("Enter a word to generate ordinal list: ")
+word = input()
+print("Ordinal list: ", ordinal_list(word))
