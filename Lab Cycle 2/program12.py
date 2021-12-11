@@ -13,4 +13,3 @@ print("Enter the second list of colors seperated by spaces: ")
 color_list2 = input().split()
 print("Color not in list 2 are: ",)
 color_not_in_list(color_list1, color_list2) # Call function
-
