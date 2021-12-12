@@ -13,4 +13,3 @@ def replace_char(str):
 
 str = input("Enter a string: ")
 print(replace_char(str)) # Call the function
-
